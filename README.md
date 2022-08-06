@@ -2,7 +2,7 @@
 
 ### 👷 Work
 
-I'm a Data Engineer currently working with the amazing people at [Gtmhub](https://gtmhub.com/).
+I'm a Data Engineer currently working with the amazing people at [Milwaukee Tool](https://www.milwaukeetool.com/).
 
 ### 📖 Learning
 
