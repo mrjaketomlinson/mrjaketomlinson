@@ -37,7 +37,6 @@ I'm currently learning about using Databricks within Azure Synapse.
             <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6"/></a>
             <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=000000"/></a>
             <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=092E20"/></a>
-            <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098"/></a>
             <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E"/></a>
             <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0078D4"/></a>
         </td>
@@ -53,7 +52,7 @@ I'm currently learning about using Databricks within Azure Synapse.
 
 👨‍👩‍👦 Father & husband
 
-🙏 Follower of Jesus
+🙏 Catholic
 
 🏌️‍♂️ Avid golfer
 
