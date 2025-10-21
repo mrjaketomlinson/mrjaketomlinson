@@ -2,11 +2,7 @@
 
 ### 👷 Work
 
-I'm a Data Engineer currently working with the amazing people at [Milwaukee Tool](https://www.milwaukeetool.com/).
-
-### 📖 Learning
-
-I'm currently learning about using Databricks within Azure Synapse.
+I'm a Principal Data Architect currently working with the amazing people at [Milwaukee Tool](https://www.milwaukeetool.com/).
 
 ### 👨‍💻 Languages & Tech
 
