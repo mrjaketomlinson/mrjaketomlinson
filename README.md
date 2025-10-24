@@ -41,7 +41,7 @@ I'm a Principal Data Architect currently working with the amazing people at [Mil
 
 ### 📫 How to reach me
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/jacobtomlinson/) (linkedin.com/in/jacobtomlinson/)
-- Check out my [blog](https://www.jacobwritescode.com)
+- Check out my [blog](https://www.jacobwritescode.com) (jacobwritescode.com)
 
 ### More about me 😁
 
