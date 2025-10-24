@@ -40,9 +40,8 @@ I'm a Principal Data Architect currently working with the amazing people at [Mil
 </table>
 
 ### 📫 How to reach me
-- [Email me](mailto:jacob.tomlinson21@gmail.com) (jacob.tomlinson21<area>@gmail.com)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/jacobtomlinson/) (linkedin.com/in/jacobtomlinson/)
-
+- Check out my [blog](https://www.jacobwritescode.com)
 
 ### More about me 😁
 
@@ -52,6 +51,6 @@ I'm a Principal Data Architect currently working with the amazing people at [Mil
 
 🏌️‍♂️ Avid golfer
 
-📚 Book worm
+📚 Bookworm
 
 🍷 Wine & 🥃 whiskey enthusiast
